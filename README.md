@@ -3,4 +3,4 @@ Implementation of various state-of-the-art architectures in Tensorflow and Pytho
 
 All the ipynb files were executed on Google Colab Tesla K80 GPU
 
-Dataset used when writing the codes: EMNIST
+Dataset used when writing the codes: EMNIST (Converted to ".npy" file format beforehand)
